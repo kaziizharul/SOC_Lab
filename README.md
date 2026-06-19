@@ -209,8 +209,8 @@ Wazuh successfully detected suspicious DDL statements and generated actionable s
 ---
 
 # Screenshots
-<!-- Uploading "DDL-Injection-Detection-Wazuh.png"... -->
 https://github.com/kaziizharul/SOC_Lab/commit/159d866a44697a72c11101cdb8623c3834ad426e#commitcomment-189335740
+
 
 ---
 
