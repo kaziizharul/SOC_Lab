@@ -116,8 +116,7 @@ attribution and timeline during incident investigation.
 ### Combined view
 All five panels together, for quick reference:
 
-![Combined panels](screenshots/combined_wazuh_ddl_injection.png)
-
+<img width="1562" height="888" alt="Image" src="https://github.com/user-attachments/assets/3a6171da-0455-4272-81a4-fb11d18b06ce" />
 ---
 
 ## Sample Artifacts
