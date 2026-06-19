@@ -160,7 +160,6 @@ All five panels together, for quick reference:
 
 ## Disclaimer
 
-This repository is for educational and authorized security-testing
-purposes only (home lab / CTF / training environment). Do not use these
-techniques against systems you do not own or have explicit written
-permission to test.
+## Disclaimer
+
+This repository is intended solely for educational, research, and authorized security-testing purposes. All demonstrations and testing activities were conducted within a controlled laboratory environment using systems owned by or explicitly authorized for testing by the author. The techniques presented here must not be used against any system without prior written permission from the owner.
