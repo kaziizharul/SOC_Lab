@@ -51,7 +51,7 @@ view below (agent `001`, status `active`, registered against manager node
 | Component | File | Purpose |
 |---|---|---|
 | Decoder | [local_decoder.xml](https://github.com/user-attachments/files/29137858/local_decoder.xml) | Parses MySQL general query log lines into `data.query`, `data.user`, `data.srcip` |
-| Rule | [local_rules.xml](https://github.com/user-attachments/files/29142272/local_rules.xml)[`wazuh-config/local_rules.xml`](wazuh-config/local_rules.xml) | Rule `100002` (level 12) fires when `data.query` matches `^(DROP\|ALTER\|CREATE\|TRUNCATE)\s+TABLE` |
+| Rule | [local_rules.xml](https://github.com/user-attachments/files/29142272/local_rules.xml) | Rule `100002` (level 12) fires when `data.query` matches `^(DROP\|ALTER\|CREATE\|TRUNCATE)\s+TABLE` |
 | Log source | [`wazuh-config/ossec_localfile_snippet.xml`](wazuh-config/ossec_localfile_snippet.xml) | Ships `/var/log/mysql/mysql.log` from the agent to the manager |
 
 Rule `100002` maps to **MITRE ATT&CK T1190 — Exploit Public-Facing
