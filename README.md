@@ -209,7 +209,7 @@ Wazuh successfully detected suspicious DDL statements and generated actionable s
 ---
 
 # Screenshots
-https://github.com/kaziizharul/SOC_Lab/commit/159d866a44697a72c11101cdb8623c3834ad426e#commitcomment-189335740
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/57ac161f-2990-4e1f-9275-0306641a176f" />
 
 
 ---
