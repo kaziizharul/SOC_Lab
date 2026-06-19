@@ -120,7 +120,7 @@ All five panels together, for quick reference:
 
 ## Sample Artifacts
 
-- [`docs/sample_mysql_general.log`](docs/sample_mysql_general.log) — raw log lines that produced the alert
+-[sample_mysql_general.log](https://github.com/user-attachments/files/29137297/sample_mysql_general.log) — raw log lines that produced the alert
 - [`docs/sample_alert.json`](docs/sample_alert.json) — the parsed Wazuh alert document
 
 ---
