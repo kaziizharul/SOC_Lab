@@ -25,8 +25,7 @@ This mirrors the agent registration shown in the Wazuh **Endpoints summary**
 view below (agent `001`, status `active`, registered against manager node
 `node01`).
 
-![Wazuh agent overview](screenshots/individual/agent_overview_reference.png)
-
+<img width="1716" height="859" alt="Image" src="https://github.com/user-attachments/assets/ad96e967-a6ac-4ade-928d-750525f5e4fe" />
 ---
 
 ## Architecture
