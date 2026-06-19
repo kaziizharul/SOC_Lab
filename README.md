@@ -97,7 +97,7 @@ Wazuh's expanded alert view for rule `100002` — **"DDL Injection Attempt
 Detected"** at severity **High** (level 12), with source IP, user, and the
 exact query that triggered the rule.
 
-![Alert detail](screenshots/individual/03_alert.png)
+<img width="2360" height="1520" alt="Image" src="https://github.com/user-attachments/assets/f6880b66-3089-4bf2-9cf6-3ad8b5ca0250" />
 
 ### 4 — Log analysis
 The raw evidence on the target host: `mysql.log` (general query log)
