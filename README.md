@@ -104,7 +104,7 @@ The raw evidence on the target host: `mysql.log` (general query log)
 showing the `SELECT` baseline followed by the `DROP TABLE`, `ALTER TABLE`,
 and `CREATE TABLE` statements as they actually executed.
 
-![Log analysis](screenshots/individual/04_log_analysis.png)
+<img width="2040" height="1120" alt="Image" src="https://github.com/user-attachments/assets/db8839ca-af57-4cc7-ad68-4bf39b1b1eed" />
 
 ### 5 — Investigation (expanded document)
 The fully parsed Wazuh event document — `agent.id`, `data.srcip`,
