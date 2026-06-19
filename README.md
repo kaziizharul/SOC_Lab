@@ -71,8 +71,8 @@ for repeatable testing against a DVWA instance set to **security level: low**.
 ./scripts/simulate_ddl_injection.sh 192.168.121.129 "PHPSESSID=...; security=low" "<csrf_token>"
 ```
 
-⚠️ Run only in an isolated lab you own. DVWA is intentionally vulnerable —
-never expose it to a real network.
+⚠️ Lab Environment Only
+This project was conducted in a controlled laboratory environment for educational and defensive security research purposes. All testing was performed on intentionally vulnerable systems owned and managed by the author. Do not deploy these configurations in production environments or expose them to public networks.
 
 ---
 
