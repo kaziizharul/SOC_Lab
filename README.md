@@ -90,7 +90,7 @@ The injection payload submitted through DVWA's SQL Injection page. The
 `User ID` field carries a stacked query (`1'; DROP TABLE users; --`) instead
 of a single ID.
 
-![Payload](screenshots/individual/02_payload.png)
+<img width="2360" height="1440" alt="Image" src="https://github.com/user-attachments/assets/67c2d86f-9e6f-4c58-897b-e4e7b20d7d2d" />
 
 ### 3 — Alert detail
 Wazuh's expanded alert view for rule `100002` — **"DDL Injection Attempt
