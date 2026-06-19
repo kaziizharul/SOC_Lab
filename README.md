@@ -83,7 +83,7 @@ Wazuh **Security events → Dashboard** showing the spike in alert volume
 during the attack window: total events, level-12+ alerts, and the
 top-talking agents.
 
-![Dashboard](screenshots/individual/01_dashboard.png)
+<img width="3072" height="1600" alt="Image" src="https://github.com/user-attachments/assets/1d9449e1-8adc-4efd-835e-552efed24f2a" />
 
 ### 2 — Payload delivery (DVWA)
 The injection payload submitted through DVWA's SQL Injection page. The
