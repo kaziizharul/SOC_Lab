@@ -63,7 +63,8 @@ Application**, and is tagged for **PCI DSS 6.5.1** (injection flaws).
 
 The full attack chain — confirm injection point → `DROP TABLE` →
 `ALTER TABLE` → `CREATE TABLE` (backdoor) — is scripted in
-[`scripts/simulate_ddl_injection.sh`](scripts/simulate_ddl_injection.sh)
+[simulate_ddl_injection.sh](https://github.com/user-attachments/files/29137511/simulate_ddl_injection.sh)
+
 for repeatable testing against a DVWA instance set to **security level: low**.
 
 ```bash
