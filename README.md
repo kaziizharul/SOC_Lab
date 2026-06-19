@@ -111,7 +111,7 @@ The fully parsed Wazuh event document — `agent.id`, `data.srcip`,
 `data.user`, `rule.id`, `rule.level`, and `full_log` — used to confirm
 attribution and timeline during incident investigation.
 
-![Investigation](screenshots/individual/05_investigation.png)
+<img width="2360" height="1520" alt="Image" src="https://github.com/user-attachments/assets/2af9bd8a-4645-466c-badb-b74804a77d93" />
 
 ### Combined view
 All five panels together, for quick reference:
