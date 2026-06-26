@@ -158,7 +158,6 @@ All five panels together, for quick reference:
 
 ---
 
-## Disclaimer
 
 ## Disclaimer
 
